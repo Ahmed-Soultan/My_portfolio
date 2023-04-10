@@ -3,13 +3,13 @@
   <a href="https://ahmed-sultan.tk/" target="_blank">ahmed-sultan.tk</a>
 </h2>
 
-<center>
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Ahmed-Soultan/Personal-Portfolio?style=plastic)
-  ![License](https://img.shields.io/bower/l/Mi?style=plastic)
-  ![GitHub stars](https://img.shields.io/github/stars/Ahmed-Soultan/Personal-Portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/Ahmed-Soultan/Personal-Portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/Ahmed-Soultan?style=social)](https://twitter.com/intent/follow?screen_name=Ahmed_a_sultan)
-</center>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Ahmed-Soultan/Personal-Portfolio?style=plastic)
+![License](https://img.shields.io/bower/l/Mi?style=plastic)
+![GitHub stars](https://img.shields.io/github/stars/Ahmed-Soultan/Personal-Portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ahmed-Soultan/Personal-Portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ahmed-Soultan?style=social)](https://twitter.com/intent/follow?screen_name=Ahmed_a_sultan)
+
 
 ## brief
 This is my personal portfolio which has been built with [Bootstrap](https://getbootstrap.com) CSS Framework & [Angular](https://angular.io) javascript framework with [Firebase](https://firebase.google.com/).
