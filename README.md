@@ -38,6 +38,7 @@ This is a personal portfolio website which has been built with [Bootstrap](https
 + ⚡️ Valid HTML5 Structure.
 + ⚡️ Dark mode.
 + ⚡️ Clean code & high performance.
++ ⚡️ SEO Friendly code.
 
 ## Contact
 
