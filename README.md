@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ahmed-Soultan?style=social)](https://twitter.com/intent/follow?screen_name=Ahmed_a_sultan)
 
 
-This is my personal portfolio which has been built with [Bootstrap](https://getbootstrap.com) CSS Framework & [Angular](https://angular.io) javascript framework with [Firebase](https://firebase.google.com/).
+This is a personal portfolio website which has been built with [Bootstrap](https://getbootstrap.com) CSS Framework & [Angular](https://angular.io) javascript framework with [Firebase](https://firebase.google.com/). It's fully responsive and looks stunning on any devices.
 
 <div align="center">
   <img alt="Demo" src="./design.png" />
