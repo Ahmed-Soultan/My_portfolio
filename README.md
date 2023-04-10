@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ahmed-Soultan?style=social)](https://twitter.com/intent/follow?screen_name=Ahmed_a_sultan)
 
 
-This project is a modern, powerful, lightweight and high performance personal portfolio, which has been built with [Angular](https://angular.io) javascript Framework & [Bootstrap](https://getbootstrap.com) framework. with [Firebase](https://firebase.google.com/).
+This project is a modern, powerful, lightweight and high performance personal portfolio, which has been built with [Angular](https://angular.io) javascript Framework & [Bootstrap](https://getbootstrap.com) CSS framework. with [Firebase](https://firebase.google.com/).
 
 <div align="center">
   <img alt="Demo" src="./design.png" />
