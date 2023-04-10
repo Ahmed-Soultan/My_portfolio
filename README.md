@@ -30,6 +30,16 @@ This is my personal portfolio which has been built with [Bootstrap](https://getb
 + [Font awesome](https://fontawesome.com/) icons webfonts library.
 + [Swiper](https://swiperjs.com/) touch slider.
 
+## Features
+
++ ⚡️ Modern UI Design + Reveal Animations.
++ ⚡️ Multi Page Layout.
++ ⚡️ Styled with Bootstrap + Custom SCSS.
++ ⚡️ Fully Responsive.
++ ⚡️ Valid HTML5 Structure.
++ ⚡️ Dark mode.
++ ⚡️ Clean code & high performance.
+
 ## Contact
 
 If you want to contact me you can reach me at [Facebook](https://www.facebook.com/dev.ahmed.sultan).
