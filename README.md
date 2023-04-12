@@ -1,5 +1,5 @@
 
-# Personal Portfolio - v0.0.1 <br/> [ahmed-sultan.tk](https://ahmed-sultan.tk)
+# Personal Portfolio - v1.0.0 <br/> [ahmed-sultan.tk](https://ahmed-sultan.tk)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ahmed-Soultan/Personal-Portfolio?style=plastic)
 ![GitHub stars](https://img.shields.io/github/stars/Ahmed-Soultan/Personal-Portfolio?style=social)
