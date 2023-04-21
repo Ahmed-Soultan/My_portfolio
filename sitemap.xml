@@ -1,74 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://ahmed-sultan.tk</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>1</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/portfolio</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/about</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/contact</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/portfolio/project/000001</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/portfolio/project/000002</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/portfolio/project/000003</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/portfolio/project/000004</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/portfolio/project/000005</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/portfolio/project/000006</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/portfolio/project/000007</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ahmed-sultan.tk/portfolio/project/000008</loc>
-        <lastmod>2023-04-18</lastmod>
+        <lastmod>2023-04-21T11:18:22+00:00</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
